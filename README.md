@@ -157,3 +157,8 @@ The above introduction to sound effects is based on the textbook [1] and PPT [2]
 - [1] [Reiss, Joshua D., and Andrew McPherson. Audio effects: theory, implementation and application. CRC Press, 2014.](http://www.crcpress.com/product/isbn/9781466560284)
 
 - [2] [10_CM0268_Audio_FX.pdf](https://users.cs.cf.ac.uk/Dave.Marshall/CM0268/PDF/10_CM0268_Audio_FX.pdf)
+
+## Contributor
+
+Shuanghong
+Yiwen
